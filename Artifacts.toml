@@ -1,0 +1,89 @@
+[[Xorg_xcb_util_image]]
+arch = "armv7l"
+git-tree-sha1 = "9c9be3c1b94b84331210a6ecbece64e69f583e09"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "837a53cc98d5dfb5d87710163f6569216f887dcbda439866ee59cadb72b2f03f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "x86_64"
+git-tree-sha1 = "1ee60386fbb1b8c6b8f38575bc26aa18db8e485a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "fea5e7abee7deabc729bce9335732d43d3a31aa1fdbcfe74690ff5a1b57d957b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "aarch64"
+git-tree-sha1 = "965197f3a936910f265e2f5c48f96a476da3ce8f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "da7874e3beebbf051d28213ecf4d67cb212c9eea76da215cb59d7bb04bf21c27"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "i686"
+git-tree-sha1 = "f4752ca8c0deedcae62c80bb8f5416fbfc673999"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "170d77ab9d19578b577634742af7871699a81feeb3f9a78efc64fd5492e54ec4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.i686-linux-musl.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "aarch64"
+git-tree-sha1 = "9b7da0beda6c5937ff63fda9a4e11959d978a8ac"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "2a7f50864b7bc873190fac1c108e856449eac9e5509c5e53645d897feb9050c4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.aarch64-linux-musl.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "x86_64"
+git-tree-sha1 = "1d24f659f4766687bcfdb5f74d4da04fcf540844"
+os = "freebsd"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "a8c99a07712dc41c8f5f6543c96107c3b6003e4566bdf0545557df81da5ca5b6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "powerpc64le"
+git-tree-sha1 = "d8323008b828a17f15e65fb125a512ed25fa2f50"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "59bd33a7545c771364fc93cf06bad8256446c47f978477617f4b6ae774cc1792"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "i686"
+git-tree-sha1 = "c9926dc2a8ebb16ca36c5355d15b3f725c7483b0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "9897976d57b87035952e5f4fe80b7e4bb77a55efe02cec6fd451bbc30f071b3f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.i686-linux-gnu.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "x86_64"
+git-tree-sha1 = "6c825e7782b383419c323e125a5d34dd802122b0"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "ea20af8dade0c809798cd431d74aafaf9deeaa2802d42cf7918657ce55aa974a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.x86_64-linux-musl.tar.gz"
+[[Xorg_xcb_util_image]]
+arch = "armv7l"
+git-tree-sha1 = "3cb21f51238d07af085c5cbe39d256c78d6a7d55"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_image.download]]
+    sha256 = "bcaea65492c45283aed5a9f040a526230c2909feed054b3fcffa8b64e5c3ab34"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_image_jll.jl/releases/download/Xorg_xcb_util_image-v0.4.0+0/Xorg_xcb_util_image.v0.4.0.arm-linux-musleabihf.tar.gz"

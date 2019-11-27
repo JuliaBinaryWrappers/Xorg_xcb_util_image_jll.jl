@@ -1,0 +1,11 @@
+name = "Xorg_xcb_util_image_jll"
+uuid = "12413925-8142-5f55-bb0e-6d7ca50bb09b"
+version = "0.4.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Xorg_xcb_util_jll = "2def613f-5ad1-5310-b15b-b15d46f528f5"
+
+[compat]
+julia = "1.3"
